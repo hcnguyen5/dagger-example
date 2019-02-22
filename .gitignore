@@ -1,0 +1,36 @@
+bin/
+.bundle/
+tmp/
+.settings/
+build/
+target/
+gen/
+.gradle/
+/classes
+
+.cproject
+.DS_Store
+.buildpath
+.target
+.texlipse
+
+*.bak
+*.class
+*.launch
+*.swp
+*.swo
+
+# Intellij
+.idea/
+*.iml
+*.iws
+/out
+local.properties
+
+# Maven
+log/
+target/
+test.strings
+
+# Docset
+boulangerie.docset
